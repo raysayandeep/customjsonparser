@@ -1,0 +1,68 @@
+{
+    "name": {
+        "fname": "Miss Layla",
+        "lname": "Elliot"
+    },
+    "address": {
+        "addressline1": "92096 Willie Fork",
+        "addressline2": "Rahata",
+        "locality": "Bhardaha",
+        "city": "East Lexieville",
+        "state": "Tennessee",
+        "pincode": "90224"
+    },
+    "contact": {
+        "mobile": {
+            "coutrycode": "+1",
+            "number": "981-687-7064 x176"
+        },
+        "home": {
+            "citycode": "025",
+            "areacode": "2345",
+            "local": "9734"
+        }
+    },
+    "bankdetails": [
+        {
+            "bank1": {            
+            "bankname": "CVF Financial",
+            "branch": "Rahata",
+            "opendays": ["Monday","Tuesday","Wednesday","Thursday","Friday"],
+            "minbalance":5000 
+            },
+            "bank2": {
+            "bankname": "Columbia Bank",
+            "branch": "Bhardaha",
+            "opendays": ["Tuesday","Wednesday","Thursday","Friday","Saturday"],
+            "minbalance":1000
+            }
+        }
+    ],
+    "school": "Texus Mission",
+    "college1": "Harvard University",
+    "college2": "Stanford University",
+    "selected options": [
+        2,
+        4,
+        6,
+        2,
+        3,
+        1
+    ],
+    "yearwiseupdate": [
+        {
+            "2012": "Google",
+            "2013": "Google",
+            "2014": "Adobe",
+            "2015": "Adobe",
+            "2016": "Adobe",
+            "2017": "Microsoft",
+            "2018": "Microsoft",
+            "2019": "Microsoft",
+            "2020": "Microsoft",
+            "2021": "Microsoft",
+            "2022": "Apple",
+            "2023": "Apple"
+        }
+    ]
+}
