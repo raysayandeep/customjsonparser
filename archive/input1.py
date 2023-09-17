@@ -1,0 +1,56 @@
+import datetime
+{"clients":
+    [
+        {
+            "name": {
+                "fname": "Miss Layla",
+                "lname": "Elliot"
+            },
+            "address": {
+                "addressline1": "92096 Willie Fork",
+                "addressline2": "Rahata",
+                "locality": "Bhardaha",
+                "city": "East Lexieville",
+                "state": "Tennessee",
+                "pincode": 90224
+            },
+            "contact": {
+                "mobile": {
+                    "coutrycode": "+1",
+                    "number": "981-687-7064 x176"
+                },
+                "home": {
+                    "citycode": "025",
+                    "areacode": "2345",
+                    "local": "9734",
+                    "LaunchTime": datetime.datetime(2021, 5, 1)
+                }
+            }
+        },
+        {
+            "name": {
+                "fname": "Mr. Larry",
+                "lname": "Page"
+            },
+            "address": {
+                "addressline1": "34 Willie St",
+                "addressline2": "Penggila",
+                "locality": "Yellow Stone",
+                "city": "South California",
+                "state": "Texas",
+                "pincode": 50786
+            },
+            "contact": {
+                "mobile": {
+                    "coutrycode": "+1",
+                    "number": "456-687-7064"
+                },
+                "home": {
+                    "citycode": "025",
+                    "areacode": "3225",
+                    "local": "5422"
+                }
+            }
+        }
+    ]
+ }

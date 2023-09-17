@@ -1,27 +1,7 @@
 {
-    "fname": "Miss Layla",
-    "address": {
-        "addressline1": "92096 Willie Fork",
-        "addressline2": "Rahata",
-        "locality": "Bhardaha",
-        "city": "East Lexieville",
-        "state": "Tennessee",
-        "pincode": "90224"
-    },
-    "yearwiseupdate": [
-        {
-            "2012": "Google",
-            "2013": "Google",
-            "2014": "Adobe",
-            "2015": "Adobe",
-            "2016": "Adobe",
-            "2017": "Microsoft",
-            "2018": "Microsoft",
-            "2019": "Microsoft",
-            "2020": "Microsoft",
-            "2021": "Microsoft",
-            "2022": "Apple",
-            "2023": "Apple"
-        }
-    ]
+    "00_Reservations_Instances_InstanceId": "string",
+    "00_Reservations_Instances_InstanceType": "a1.medium",
+    "000_Reservations_Instances_Tags_Key": "string",
+    "000_Reservations_Instances_Tags_Value": "string",
+    "00_Reservations_Instances_MetadataOptions_InstanceMetadataTags": "disabled"
 }
